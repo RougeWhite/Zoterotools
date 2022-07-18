@@ -6,7 +6,7 @@
 
 ### 使用方式
 
-![image-20220718165808087](ReadME.assets\image-20220718165808087.png)
+![image-20220718165808087](\ReadME.assets\image-20220718165808087.png)
 
 第一个输入为zotero文件本地数据库位置
 
@@ -18,4 +18,4 @@
 
 可以直接使用
 
-![image-20220718170240603](ReadME.assets\image-20220718170240603.png)
+![image-20220718170240603](\ReadME.assets\image-20220718170240603.png)
